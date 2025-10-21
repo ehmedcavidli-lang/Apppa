@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\HazirMetodlar\bin\Debug\net8.0\HazirMetodlar.exe
+C:\Users\PC\Desktop\HazirMetodlar\bin\Debug\net8.0\HazirMetodlar.deps.json
+C:\Users\PC\Desktop\HazirMetodlar\bin\Debug\net8.0\HazirMetodlar.runtimeconfig.json
+C:\Users\PC\Desktop\HazirMetodlar\bin\Debug\net8.0\HazirMetodlar.dll
+C:\Users\PC\Desktop\HazirMetodlar\bin\Debug\net8.0\HazirMetodlar.pdb
+C:\Users\PC\Desktop\HazirMetodlar\obj\Debug\net8.0\HazirMetodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\HazirMetodlar\obj\Debug\net8.0\HazirMetodlar.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\HazirMetodlar\obj\Debug\net8.0\HazirMetodlar.AssemblyInfo.cs
+C:\Users\PC\Desktop\HazirMetodlar\obj\Debug\net8.0\HazirMetodlar.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\HazirMetodlar\obj\Debug\net8.0\HazirMetodlar.dll
+C:\Users\PC\Desktop\HazirMetodlar\obj\Debug\net8.0\refint\HazirMetodlar.dll
+C:\Users\PC\Desktop\HazirMetodlar\obj\Debug\net8.0\HazirMetodlar.pdb
+C:\Users\PC\Desktop\HazirMetodlar\obj\Debug\net8.0\HazirMetodlar.genruntimeconfig.cache
+C:\Users\PC\Desktop\HazirMetodlar\obj\Debug\net8.0\ref\HazirMetodlar.dll
