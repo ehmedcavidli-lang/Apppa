@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Apppa\Abstract,Polimorphism\obj\Debug\net8.0\Abstract,Polimorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Apppa\Abstract,Polimorphism\obj\Debug\net8.0\Abstract,Polimorphism.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Apppa\Abstract,Polimorphism\obj\Debug\net8.0\Abstract,Polimorphism.AssemblyInfo.cs
+C:\Users\PC\Desktop\Apppa\Abstract,Polimorphism\obj\Debug\net8.0\Abstract,Polimorphism.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Apppa\Abstract,Polimorphism\obj\Debug\net8.0\Abstract,Polimorphism.sourcelink.json
+C:\Users\PC\Desktop\Apppa\Abstract,Polimorphism\bin\Debug\net8.0\Abstract,Polimorphism.exe
+C:\Users\PC\Desktop\Apppa\Abstract,Polimorphism\bin\Debug\net8.0\Abstract,Polimorphism.deps.json
+C:\Users\PC\Desktop\Apppa\Abstract,Polimorphism\bin\Debug\net8.0\Abstract,Polimorphism.runtimeconfig.json
+C:\Users\PC\Desktop\Apppa\Abstract,Polimorphism\bin\Debug\net8.0\Abstract,Polimorphism.dll
+C:\Users\PC\Desktop\Apppa\Abstract,Polimorphism\bin\Debug\net8.0\Abstract,Polimorphism.pdb
+C:\Users\PC\Desktop\Apppa\Abstract,Polimorphism\obj\Debug\net8.0\Abstract,Polimorphism.dll
+C:\Users\PC\Desktop\Apppa\Abstract,Polimorphism\obj\Debug\net8.0\refint\Abstract,Polimorphism.dll
+C:\Users\PC\Desktop\Apppa\Abstract,Polimorphism\obj\Debug\net8.0\Abstract,Polimorphism.pdb
+C:\Users\PC\Desktop\Apppa\Abstract,Polimorphism\obj\Debug\net8.0\Abstract,Polimorphism.genruntimeconfig.cache
+C:\Users\PC\Desktop\Apppa\Abstract,Polimorphism\obj\Debug\net8.0\ref\Abstract,Polimorphism.dll
