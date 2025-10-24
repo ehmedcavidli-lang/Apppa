@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Apppa\Intyerfaces_static\bin\Debug\net8.0\Intyerfaces_static.exe
+C:\Users\PC\Desktop\Apppa\Intyerfaces_static\bin\Debug\net8.0\Intyerfaces_static.deps.json
+C:\Users\PC\Desktop\Apppa\Intyerfaces_static\bin\Debug\net8.0\Intyerfaces_static.runtimeconfig.json
+C:\Users\PC\Desktop\Apppa\Intyerfaces_static\bin\Debug\net8.0\Intyerfaces_static.dll
+C:\Users\PC\Desktop\Apppa\Intyerfaces_static\bin\Debug\net8.0\Intyerfaces_static.pdb
+C:\Users\PC\Desktop\Apppa\Intyerfaces_static\obj\Debug\net8.0\Intyerfaces_static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Apppa\Intyerfaces_static\obj\Debug\net8.0\Intyerfaces_static.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Apppa\Intyerfaces_static\obj\Debug\net8.0\Intyerfaces_static.AssemblyInfo.cs
+C:\Users\PC\Desktop\Apppa\Intyerfaces_static\obj\Debug\net8.0\Intyerfaces_static.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Apppa\Intyerfaces_static\obj\Debug\net8.0\Intyerfaces_static.sourcelink.json
+C:\Users\PC\Desktop\Apppa\Intyerfaces_static\obj\Debug\net8.0\Intyerfaces_static.dll
+C:\Users\PC\Desktop\Apppa\Intyerfaces_static\obj\Debug\net8.0\refint\Intyerfaces_static.dll
+C:\Users\PC\Desktop\Apppa\Intyerfaces_static\obj\Debug\net8.0\Intyerfaces_static.pdb
+C:\Users\PC\Desktop\Apppa\Intyerfaces_static\obj\Debug\net8.0\Intyerfaces_static.genruntimeconfig.cache
+C:\Users\PC\Desktop\Apppa\Intyerfaces_static\obj\Debug\net8.0\ref\Intyerfaces_static.dll
