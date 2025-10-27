@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Apppa\ML_InC#\bin\Debug\net8.0\ML_InC#.exe
+C:\Users\PC\Desktop\Apppa\ML_InC#\bin\Debug\net8.0\ML_InC#.deps.json
+C:\Users\PC\Desktop\Apppa\ML_InC#\bin\Debug\net8.0\ML_InC#.runtimeconfig.json
+C:\Users\PC\Desktop\Apppa\ML_InC#\bin\Debug\net8.0\ML_InC#.dll
+C:\Users\PC\Desktop\Apppa\ML_InC#\bin\Debug\net8.0\ML_InC#.pdb
+C:\Users\PC\Desktop\Apppa\ML_InC#\obj\Debug\net8.0\ML_InC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Apppa\ML_InC#\obj\Debug\net8.0\ML_InC#.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Apppa\ML_InC#\obj\Debug\net8.0\ML_InC#.AssemblyInfo.cs
+C:\Users\PC\Desktop\Apppa\ML_InC#\obj\Debug\net8.0\ML_InC#.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Apppa\ML_InC#\obj\Debug\net8.0\ML_InC#.sourcelink.json
+C:\Users\PC\Desktop\Apppa\ML_InC#\obj\Debug\net8.0\ML_InC#.dll
+C:\Users\PC\Desktop\Apppa\ML_InC#\obj\Debug\net8.0\refint\ML_InC#.dll
+C:\Users\PC\Desktop\Apppa\ML_InC#\obj\Debug\net8.0\ML_InC#.pdb
+C:\Users\PC\Desktop\Apppa\ML_InC#\obj\Debug\net8.0\ML_InC#.genruntimeconfig.cache
+C:\Users\PC\Desktop\Apppa\ML_InC#\obj\Debug\net8.0\ref\ML_InC#.dll

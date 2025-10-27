@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Apppa\Enum_Struct\bin\Debug\net8.0\Enum_Struct.exe
+C:\Users\PC\Desktop\Apppa\Enum_Struct\bin\Debug\net8.0\Enum_Struct.deps.json
+C:\Users\PC\Desktop\Apppa\Enum_Struct\bin\Debug\net8.0\Enum_Struct.runtimeconfig.json
+C:\Users\PC\Desktop\Apppa\Enum_Struct\bin\Debug\net8.0\Enum_Struct.dll
+C:\Users\PC\Desktop\Apppa\Enum_Struct\bin\Debug\net8.0\Enum_Struct.pdb
+C:\Users\PC\Desktop\Apppa\Enum_Struct\obj\Debug\net8.0\Enum_Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Apppa\Enum_Struct\obj\Debug\net8.0\Enum_Struct.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Apppa\Enum_Struct\obj\Debug\net8.0\Enum_Struct.AssemblyInfo.cs
+C:\Users\PC\Desktop\Apppa\Enum_Struct\obj\Debug\net8.0\Enum_Struct.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Apppa\Enum_Struct\obj\Debug\net8.0\Enum_Struct.sourcelink.json
+C:\Users\PC\Desktop\Apppa\Enum_Struct\obj\Debug\net8.0\Enum_Struct.dll
+C:\Users\PC\Desktop\Apppa\Enum_Struct\obj\Debug\net8.0\refint\Enum_Struct.dll
+C:\Users\PC\Desktop\Apppa\Enum_Struct\obj\Debug\net8.0\Enum_Struct.pdb
+C:\Users\PC\Desktop\Apppa\Enum_Struct\obj\Debug\net8.0\Enum_Struct.genruntimeconfig.cache
+C:\Users\PC\Desktop\Apppa\Enum_Struct\obj\Debug\net8.0\ref\Enum_Struct.dll
