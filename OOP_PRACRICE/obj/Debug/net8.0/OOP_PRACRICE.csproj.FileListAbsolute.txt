@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Apppa\OOP_PRACRICE\bin\Debug\net8.0\OOP_PRACRICE.exe
+C:\Users\PC\Desktop\Apppa\OOP_PRACRICE\bin\Debug\net8.0\OOP_PRACRICE.deps.json
+C:\Users\PC\Desktop\Apppa\OOP_PRACRICE\bin\Debug\net8.0\OOP_PRACRICE.runtimeconfig.json
+C:\Users\PC\Desktop\Apppa\OOP_PRACRICE\bin\Debug\net8.0\OOP_PRACRICE.dll
+C:\Users\PC\Desktop\Apppa\OOP_PRACRICE\bin\Debug\net8.0\OOP_PRACRICE.pdb
+C:\Users\PC\Desktop\Apppa\OOP_PRACRICE\obj\Debug\net8.0\OOP_PRACRICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Apppa\OOP_PRACRICE\obj\Debug\net8.0\OOP_PRACRICE.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Apppa\OOP_PRACRICE\obj\Debug\net8.0\OOP_PRACRICE.AssemblyInfo.cs
+C:\Users\PC\Desktop\Apppa\OOP_PRACRICE\obj\Debug\net8.0\OOP_PRACRICE.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Apppa\OOP_PRACRICE\obj\Debug\net8.0\OOP_PRACRICE.sourcelink.json
+C:\Users\PC\Desktop\Apppa\OOP_PRACRICE\obj\Debug\net8.0\OOP_PRACRICE.dll
+C:\Users\PC\Desktop\Apppa\OOP_PRACRICE\obj\Debug\net8.0\refint\OOP_PRACRICE.dll
+C:\Users\PC\Desktop\Apppa\OOP_PRACRICE\obj\Debug\net8.0\OOP_PRACRICE.pdb
+C:\Users\PC\Desktop\Apppa\OOP_PRACRICE\obj\Debug\net8.0\OOP_PRACRICE.genruntimeconfig.cache
+C:\Users\PC\Desktop\Apppa\OOP_PRACRICE\obj\Debug\net8.0\ref\OOP_PRACRICE.dll
