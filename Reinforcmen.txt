@@ -1,0 +1,102 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading;
+
+class IntelligentAgent
+{
+    // Strategiyalar (fərqli qərar növləri)
+    static string[] strategies = { "Riskli", "Təhlükəsiz", "Orta" };
+    static Random random = new Random();
+
+    // Strategiyaların nəticə tarixçəsi
+    static Dictionary<string, List<double>> rewardHistory = new Dictionary<string, List<double>>()
+    {
+        { "Riskli", new List<double>() },
+        { "Təhlükəsiz", new List<double>() },
+        { "Orta", new List<double>() }
+    };
+
+    static double explorationRate = 0.2; // təsadüfi yeni strategiya sınaq ehtimalı
+    static int totalDays = 100;
+    static double learningRate = 0.1;
+
+    static void Main()
+    {
+        Console.WriteLine("🧠 İnsan Qərar Öyrənmə Simulyasiyası (Feedback Loop + Reinforcement)\n");
+
+        string currentStrategy = strategies[random.Next(strategies.Length)];
+
+        for (int day = 1; day <= totalDays; day++)
+        {
+            // --- 1. Strategiyanı seç (bəzən yeni strategiya sınaqdan keçsin)
+            if (random.NextDouble() < explorationRate)
+                currentStrategy = strategies[random.Next(strategies.Length)];
+            else
+                currentStrategy = SelectBestStrategy();
+
+            // --- 2. Strategiyanın nəticəsini simulyasiya et
+            double reward = GetReward(currentStrategy);
+
+            // --- 3. Tarixçəyə əlavə et
+            rewardHistory[currentStrategy].Add(reward);
+
+            // --- 4. Tədris (öyrənmə) - keçmiş nəticələrə əsasən exploration-u azaldırıq
+            explorationRate *= 0.99; // zamanla agent daha sabit qərarlar verir
+
+            // --- 5. Vizual çıxış
+            Console.WriteLine($"Gün {day:00}: Strategiya = {currentStrategy,-10} | Nəticə (mükafat) = {reward,5:F2} | " +
+                              $"Orta Mükafat = {rewardHistory[currentStrategy].Average(),5:F2}");
+
+            Thread.Sleep(50);
+        }
+
+        Console.WriteLine("\n📊 Simulyasiya bitdi. Statistik nəticələr:\n");
+        foreach (var s in strategies)
+        {
+            var avg = rewardHistory[s].Count > 0 ? rewardHistory[s].Average() : 0;
+            Console.WriteLine($"{s,-10} → Orta mükafat: {avg:F2}, Cəmi: {rewardHistory[s].Count} dəfə seçilib.");
+        }
+
+        Console.WriteLine("\n✅ Agent ən çox istifadə etdiyi strategiyanı 'optimal davranış' kimi öyrənmiş olur.");
+    }
+
+    // Strategiyanın nəticəsini modelləşdiririk
+    static double GetReward(string strategy)
+    {
+        switch (strategy)
+        {
+            case "Riskli":
+                // Yüksək qazanc, amma risklidir
+                return random.NextDouble() < 0.5 ? -2 : +4; // 50% uğur, 50% cəza
+            case "Təhlükəsiz":
+                // Daim az, amma sabit mükafat
+                return 1.0 + random.NextDouble() * 0.5; // 1–1.5 arası
+            case "Orta":
+                // Balanslı seçim
+                return random.NextDouble() < 0.7 ? 2.0 : -1.0; // 70% uğur
+            default:
+                return 0;
+        }
+    }
+
+    // Ən yaxşı strategiyanı tap (keçmiş mükafatların ortalamasına əsasən)
+    static string SelectBestStrategy()
+    {
+        string best = strategies[0];
+        double bestAvg = double.NegativeInfinity;
+
+        foreach (var s in strategies)
+        {
+            if (rewardHistory[s].Count == 0) continue;
+            double avg = rewardHistory[s].Average();
+            if (avg > bestAvg)
+            {
+                bestAvg = avg;
+                best = s;
+            }
+        }
+
+        return best;
+    }
+}
