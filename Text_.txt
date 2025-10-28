@@ -1,0 +1,33 @@
+using System;
+
+class LearningAgent
+{
+    static void Main()
+    {
+        Random random = new Random();
+        double decisionBias = 0.5; // Agentin 0 ilə 1 arasında qərar meyli
+        double learningRate = 0.1;
+
+        for (int day = 1; day <= 50; day++)
+        {
+            // Agentin qərarı: 1 = riskli, 0 = təhlükəsiz
+            int decision = random.NextDouble() < decisionBias ? 1 : 0;
+
+            // Mühitdən geribildirim (feedback): riskli qərar bəzən çox mükafat, bəzən cəza verir
+            int reward;
+            if (decision == 1)
+                reward = random.NextDouble() < 0.4 ? -1 : +2; // 40% cəza, 60% mükafat
+            else
+                reward = +1; // təhlükəsiz qərar az amma stabil mükafat verir
+
+            // Feedback əsasında bias-ı tənzimlə
+            decisionBias += learningRate * reward;
+            decisionBias = Math.Clamp(decisionBias, 0.0, 1.0);
+
+            Console.WriteLine($"Gün {day:00}: Qərar = {(decision == 1 ? "Riskli" : "Təhlükəsiz")}, " +
+                              $"Nəticə = {reward}, Yeni Meyil = {decisionBias:F2}");
+        }
+
+        Console.WriteLine("\nSimulyasiya bitdi.");
+    }
+}
