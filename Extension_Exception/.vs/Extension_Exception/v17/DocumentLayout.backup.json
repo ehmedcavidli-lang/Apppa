@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Apppa\\Extension_Exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1101C8E5-E3BD-4620-BB5D-8393D58A5921}|Extension_Exception.csproj|c:\\users\\pc\\desktop\\apppa\\extension_exception\\helpers\\extections\\useextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1101C8E5-E3BD-4620-BB5D-8393D58A5921}|Extension_Exception.csproj|solutionrelative:helpers\\extections\\useextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1101C8E5-E3BD-4620-BB5D-8393D58A5921}|Extension_Exception.csproj|c:\\users\\pc\\desktop\\apppa\\extension_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1101C8E5-E3BD-4620-BB5D-8393D58A5921}|Extension_Exception.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1101C8E5-E3BD-4620-BB5D-8393D58A5921}|Extension_Exception.csproj|c:\\users\\pc\\desktop\\apppa\\extension_exception\\helpers\\extections\\exceptionemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1101C8E5-E3BD-4620-BB5D-8393D58A5921}|Extension_Exception.csproj|solutionrelative:helpers\\extections\\exceptionemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionEmail.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Apppa\\Extension_Exception\\Helpers\\Extections\\ExceptionEmail.cs",
+              "RelativeDocumentMoniker": "Helpers\\Extections\\ExceptionEmail.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Apppa\\Extension_Exception\\Helpers\\Extections\\ExceptionEmail.cs",
+              "RelativeToolTip": "Helpers\\Extections\\ExceptionEmail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:45:02.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UseExtension.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Apppa\\Extension_Exception\\Helpers\\Extections\\UseExtension.cs",
+              "RelativeDocumentMoniker": "Helpers\\Extections\\UseExtension.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Apppa\\Extension_Exception\\Helpers\\Extections\\UseExtension.cs*",
+              "RelativeToolTip": "Helpers\\Extections\\UseExtension.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:08:20.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Apppa\\Extension_Exception\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Apppa\\Extension_Exception\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:03:06.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

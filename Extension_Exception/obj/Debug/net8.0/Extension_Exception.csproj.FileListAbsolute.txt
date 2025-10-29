@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Apppa\Extension_Exception\bin\Debug\net8.0\Extension_Exception.exe
+C:\Users\PC\Desktop\Apppa\Extension_Exception\bin\Debug\net8.0\Extension_Exception.deps.json
+C:\Users\PC\Desktop\Apppa\Extension_Exception\bin\Debug\net8.0\Extension_Exception.runtimeconfig.json
+C:\Users\PC\Desktop\Apppa\Extension_Exception\bin\Debug\net8.0\Extension_Exception.dll
+C:\Users\PC\Desktop\Apppa\Extension_Exception\bin\Debug\net8.0\Extension_Exception.pdb
+C:\Users\PC\Desktop\Apppa\Extension_Exception\obj\Debug\net8.0\Extension_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Apppa\Extension_Exception\obj\Debug\net8.0\Extension_Exception.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Apppa\Extension_Exception\obj\Debug\net8.0\Extension_Exception.AssemblyInfo.cs
+C:\Users\PC\Desktop\Apppa\Extension_Exception\obj\Debug\net8.0\Extension_Exception.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Apppa\Extension_Exception\obj\Debug\net8.0\Extension_Exception.sourcelink.json
+C:\Users\PC\Desktop\Apppa\Extension_Exception\obj\Debug\net8.0\Extension_Exception.dll
+C:\Users\PC\Desktop\Apppa\Extension_Exception\obj\Debug\net8.0\refint\Extension_Exception.dll
+C:\Users\PC\Desktop\Apppa\Extension_Exception\obj\Debug\net8.0\Extension_Exception.pdb
+C:\Users\PC\Desktop\Apppa\Extension_Exception\obj\Debug\net8.0\Extension_Exception.genruntimeconfig.cache
+C:\Users\PC\Desktop\Apppa\Extension_Exception\obj\Debug\net8.0\ref\Extension_Exception.dll
