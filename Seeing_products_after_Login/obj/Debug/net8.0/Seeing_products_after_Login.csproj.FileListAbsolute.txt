@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Apppa\Seeing_products_after_Login\bin\Debug\net8.0\Seeing_products_after_Login.exe
+C:\Users\PC\Desktop\Apppa\Seeing_products_after_Login\bin\Debug\net8.0\Seeing_products_after_Login.deps.json
+C:\Users\PC\Desktop\Apppa\Seeing_products_after_Login\bin\Debug\net8.0\Seeing_products_after_Login.runtimeconfig.json
+C:\Users\PC\Desktop\Apppa\Seeing_products_after_Login\bin\Debug\net8.0\Seeing_products_after_Login.dll
+C:\Users\PC\Desktop\Apppa\Seeing_products_after_Login\bin\Debug\net8.0\Seeing_products_after_Login.pdb
+C:\Users\PC\Desktop\Apppa\Seeing_products_after_Login\obj\Debug\net8.0\Seeing_products_after_Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Apppa\Seeing_products_after_Login\obj\Debug\net8.0\Seeing_products_after_Login.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Apppa\Seeing_products_after_Login\obj\Debug\net8.0\Seeing_products_after_Login.AssemblyInfo.cs
+C:\Users\PC\Desktop\Apppa\Seeing_products_after_Login\obj\Debug\net8.0\Seeing_products_after_Login.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Apppa\Seeing_products_after_Login\obj\Debug\net8.0\Seeing_products_after_Login.sourcelink.json
+C:\Users\PC\Desktop\Apppa\Seeing_products_after_Login\obj\Debug\net8.0\Seeing_products_after_Login.dll
+C:\Users\PC\Desktop\Apppa\Seeing_products_after_Login\obj\Debug\net8.0\refint\Seeing_products_after_Login.dll
+C:\Users\PC\Desktop\Apppa\Seeing_products_after_Login\obj\Debug\net8.0\Seeing_products_after_Login.pdb
+C:\Users\PC\Desktop\Apppa\Seeing_products_after_Login\obj\Debug\net8.0\Seeing_products_after_Login.genruntimeconfig.cache
+C:\Users\PC\Desktop\Apppa\Seeing_products_after_Login\obj\Debug\net8.0\ref\Seeing_products_after_Login.dll
