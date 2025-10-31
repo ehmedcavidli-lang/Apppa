@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Apppa\List_Generic_Collections\bin\Debug\net8.0\List_Generic_Collections.exe
+C:\Users\PC\Desktop\Apppa\List_Generic_Collections\bin\Debug\net8.0\List_Generic_Collections.deps.json
+C:\Users\PC\Desktop\Apppa\List_Generic_Collections\bin\Debug\net8.0\List_Generic_Collections.runtimeconfig.json
+C:\Users\PC\Desktop\Apppa\List_Generic_Collections\bin\Debug\net8.0\List_Generic_Collections.dll
+C:\Users\PC\Desktop\Apppa\List_Generic_Collections\bin\Debug\net8.0\List_Generic_Collections.pdb
+C:\Users\PC\Desktop\Apppa\List_Generic_Collections\obj\Debug\net8.0\List_Generic_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Apppa\List_Generic_Collections\obj\Debug\net8.0\List_Generic_Collections.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Apppa\List_Generic_Collections\obj\Debug\net8.0\List_Generic_Collections.AssemblyInfo.cs
+C:\Users\PC\Desktop\Apppa\List_Generic_Collections\obj\Debug\net8.0\List_Generic_Collections.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Apppa\List_Generic_Collections\obj\Debug\net8.0\List_Generic_Collections.sourcelink.json
+C:\Users\PC\Desktop\Apppa\List_Generic_Collections\obj\Debug\net8.0\List_Generic_Collections.dll
+C:\Users\PC\Desktop\Apppa\List_Generic_Collections\obj\Debug\net8.0\refint\List_Generic_Collections.dll
+C:\Users\PC\Desktop\Apppa\List_Generic_Collections\obj\Debug\net8.0\List_Generic_Collections.pdb
+C:\Users\PC\Desktop\Apppa\List_Generic_Collections\obj\Debug\net8.0\List_Generic_Collections.genruntimeconfig.cache
+C:\Users\PC\Desktop\Apppa\List_Generic_Collections\obj\Debug\net8.0\ref\List_Generic_Collections.dll

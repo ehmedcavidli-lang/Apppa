@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Apppa\\List_Generic_Collections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76405157-2F44-42B3-AFF9-33B4E0D9F2FE}|List_Generic_Collections.csproj|c:\\users\\pc\\desktop\\apppa\\list_generic_collections\\helpers\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76405157-2F44-42B3-AFF9-33B4E0D9F2FE}|List_Generic_Collections.csproj|solutionrelative:helpers\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76405157-2F44-42B3-AFF9-33B4E0D9F2FE}|List_Generic_Collections.csproj|c:\\users\\pc\\desktop\\apppa\\list_generic_collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76405157-2F44-42B3-AFF9-33B4E0D9F2FE}|List_Generic_Collections.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76405157-2F44-42B3-AFF9-33B4E0D9F2FE}|List_Generic_Collections.csproj|c:\\users\\pc\\desktop\\apppa\\list_generic_collections\\services\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76405157-2F44-42B3-AFF9-33B4E0D9F2FE}|List_Generic_Collections.csproj|solutionrelative:services\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76405157-2F44-42B3-AFF9-33B4E0D9F2FE}|List_Generic_Collections.csproj|c:\\users\\pc\\desktop\\apppa\\list_generic_collections\\services\\icustomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76405157-2F44-42B3-AFF9-33B4E0D9F2FE}|List_Generic_Collections.csproj|solutionrelative:services\\icustomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76405157-2F44-42B3-AFF9-33B4E0D9F2FE}|List_Generic_Collections.csproj|c:\\users\\pc\\desktop\\apppa\\list_generic_collections\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76405157-2F44-42B3-AFF9-33B4E0D9F2FE}|List_Generic_Collections.csproj|solutionrelative:database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76405157-2F44-42B3-AFF9-33B4E0D9F2FE}|List_Generic_Collections.csproj|c:\\users\\pc\\desktop\\apppa\\list_generic_collections\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76405157-2F44-42B3-AFF9-33B4E0D9F2FE}|List_Generic_Collections.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Apppa\\List_Generic_Collections\\Helpers\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Helpers\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Apppa\\List_Generic_Collections\\Helpers\\NotFoundException.cs",
+              "RelativeToolTip": "Helpers\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:04:57.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICustomService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Apppa\\List_Generic_Collections\\Services\\ICustomService.cs",
+              "RelativeDocumentMoniker": "Services\\ICustomService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Apppa\\List_Generic_Collections\\Services\\ICustomService.cs",
+              "RelativeToolTip": "Services\\ICustomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:31:46.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Apppa\\List_Generic_Collections\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Apppa\\List_Generic_Collections\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:29:02.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Apppa\\List_Generic_Collections\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Apppa\\List_Generic_Collections\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "Database\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAwwBUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:14:08.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Apppa\\List_Generic_Collections\\Services\\Customer.cs",
+              "RelativeDocumentMoniker": "Services\\Customer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Apppa\\List_Generic_Collections\\Services\\Customer.cs",
+              "RelativeToolTip": "Services\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:11:29.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Apppa\\List_Generic_Collections\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Apppa\\List_Generic_Collections\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:06:45.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
