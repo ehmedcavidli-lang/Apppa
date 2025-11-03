@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Apppa\Delegates_Practice\bin\Debug\net8.0\Delegates_Practice.exe
+C:\Users\PC\Desktop\Apppa\Delegates_Practice\bin\Debug\net8.0\Delegates_Practice.deps.json
+C:\Users\PC\Desktop\Apppa\Delegates_Practice\bin\Debug\net8.0\Delegates_Practice.runtimeconfig.json
+C:\Users\PC\Desktop\Apppa\Delegates_Practice\bin\Debug\net8.0\Delegates_Practice.dll
+C:\Users\PC\Desktop\Apppa\Delegates_Practice\bin\Debug\net8.0\Delegates_Practice.pdb
+C:\Users\PC\Desktop\Apppa\Delegates_Practice\obj\Debug\net8.0\Delegates_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Apppa\Delegates_Practice\obj\Debug\net8.0\Delegates_Practice.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Apppa\Delegates_Practice\obj\Debug\net8.0\Delegates_Practice.AssemblyInfo.cs
+C:\Users\PC\Desktop\Apppa\Delegates_Practice\obj\Debug\net8.0\Delegates_Practice.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Apppa\Delegates_Practice\obj\Debug\net8.0\Delegates_Practice.sourcelink.json
+C:\Users\PC\Desktop\Apppa\Delegates_Practice\obj\Debug\net8.0\Delegates_Practice.dll
+C:\Users\PC\Desktop\Apppa\Delegates_Practice\obj\Debug\net8.0\refint\Delegates_Practice.dll
+C:\Users\PC\Desktop\Apppa\Delegates_Practice\obj\Debug\net8.0\Delegates_Practice.pdb
+C:\Users\PC\Desktop\Apppa\Delegates_Practice\obj\Debug\net8.0\Delegates_Practice.genruntimeconfig.cache
+C:\Users\PC\Desktop\Apppa\Delegates_Practice\obj\Debug\net8.0\ref\Delegates_Practice.dll
