@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AyncArchitec")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4516a586e746b245eff6930058a9fc807c4098b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AyncArchitec")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AyncArchitec")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

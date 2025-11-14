@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE2F1F93-B89C-4DF3-82D5-121BBC2E5011}|AyncArchitec\\AyncArchitec.csproj|c:\\users\\pc\\desktop\\architecture\\ayncarchitec\\ayncarchitec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE2F1F93-B89C-4DF3-82D5-121BBC2E5011}|AyncArchitec\\AyncArchitec.csproj|solutionrelative:ayncarchitec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4D5BDDC-D262-41E4-96F1-D98D5001D8E0}|Service\\Service.csproj|c:\\users\\pc\\desktop\\architecture\\ayncarchitec\\service\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4D5BDDC-D262-41E4-96F1-D98D5001D8E0}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24F04714-6470-499D-9F11-3A0E82459988}|Domain\\Domain.csproj|c:\\users\\pc\\desktop\\architecture\\ayncarchitec\\domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F04714-6470-499D-9F11-3A0E82459988}|Domain\\Domain.csproj|solutionrelative:domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C2987FF-964A-4255-8412-EE9B5571DA88}|Data\\Data.csproj|c:\\users\\pc\\desktop\\architecture\\ayncarchitec\\data\\metods\\showmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C2987FF-964A-4255-8412-EE9B5571DA88}|Data\\Data.csproj|solutionrelative:data\\metods\\showmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4D5BDDC-D262-41E4-96F1-D98D5001D8E0}|Service\\Service.csproj|c:\\users\\pc\\desktop\\architecture\\ayncarchitec\\service\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4D5BDDC-D262-41E4-96F1-D98D5001D8E0}|Service\\Service.csproj|c:\\users\\pc\\desktop\\apppa\\architecture\\ayncarchitec\\service\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4D5BDDC-D262-41E4-96F1-D98D5001D8E0}|Service\\Service.csproj|solutionrelative:service\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C2987FF-964A-4255-8412-EE9B5571DA88}|Data\\Data.csproj|c:\\users\\pc\\desktop\\architecture\\ayncarchitec\\data\\db\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE2F1F93-B89C-4DF3-82D5-121BBC2E5011}|AyncArchitec\\AyncArchitec.csproj|c:\\users\\pc\\desktop\\apppa\\architecture\\ayncarchitec\\ayncarchitec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2F1F93-B89C-4DF3-82D5-121BBC2E5011}|AyncArchitec\\AyncArchitec.csproj|solutionrelative:ayncarchitec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D5BDDC-D262-41E4-96F1-D98D5001D8E0}|Service\\Service.csproj|c:\\users\\pc\\desktop\\apppa\\architecture\\ayncarchitec\\service\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D5BDDC-D262-41E4-96F1-D98D5001D8E0}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F04714-6470-499D-9F11-3A0E82459988}|Domain\\Domain.csproj|c:\\users\\pc\\desktop\\apppa\\architecture\\ayncarchitec\\domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F04714-6470-499D-9F11-3A0E82459988}|Domain\\Domain.csproj|solutionrelative:domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2987FF-964A-4255-8412-EE9B5571DA88}|Data\\Data.csproj|c:\\users\\pc\\desktop\\apppa\\architecture\\ayncarchitec\\data\\metods\\showmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2987FF-964A-4255-8412-EE9B5571DA88}|Data\\Data.csproj|solutionrelative:data\\metods\\showmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2987FF-964A-4255-8412-EE9B5571DA88}|Data\\Data.csproj|c:\\users\\pc\\desktop\\apppa\\architecture\\ayncarchitec\\data\\db\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C2987FF-964A-4255-8412-EE9B5571DA88}|Data\\Data.csproj|solutionrelative:data\\db\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,93 +34,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Service\\Services\\StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Service\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "Service\\Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Service\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Service\\Services\\StudentService.cs",
               "RelativeToolTip": "Service\\Services\\StudentService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAewBQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T08:58:01.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Service\\Services\\Interfaces\\IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Service\\Services\\Interfaces\\IStudentService.cs",
               "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Service\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Service\\Services\\Interfaces\\IStudentService.cs",
               "RelativeToolTip": "Service\\Services\\Interfaces\\IStudentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T08:55:17.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T08:55:17.09Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Data\\Db\\Context.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Data\\Db\\Context.cs",
               "RelativeDocumentMoniker": "Data\\Db\\Context.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Data\\Db\\Context.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Data\\Db\\Context.cs",
               "RelativeToolTip": "Data\\Db\\Context.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T08:50:17.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Domain\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Domain\\Models\\Student.cs",
-              "RelativeToolTip": "Domain\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T08:48:46.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T08:50:17.079Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ShowMethod.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Data\\Metods\\ShowMethod.cs",
-              "RelativeDocumentMoniker": "Data\\Metods\\ShowMethod.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Data\\Metods\\ShowMethod.cs",
-              "RelativeToolTip": "Data\\Metods\\ShowMethod.cs",
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Domain\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Domain\\Models\\Student.cs",
+              "RelativeToolTip": "Domain\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T08:27:12.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T08:48:46.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "ShowMethod.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Data\\Metods\\ShowMethod.cs",
+              "RelativeDocumentMoniker": "Data\\Metods\\ShowMethod.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Data\\Metods\\ShowMethod.cs",
+              "RelativeToolTip": "Data\\Metods\\ShowMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:27:12.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\AyncArchitec\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\AyncArchitec\\Program.cs",
               "RelativeDocumentMoniker": "AyncArchitec\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\AyncArchitec\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\AyncArchitec\\Program.cs",
               "RelativeToolTip": "AyncArchitec\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T08:22:42.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2025-11-06T08:22:42.799Z"
             }
           ]
         }

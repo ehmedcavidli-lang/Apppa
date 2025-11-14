@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Data\\Data.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Data\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Domain\\Domain.csproj"
+            "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Domain\\Domain.csproj"
             }
           }
         }

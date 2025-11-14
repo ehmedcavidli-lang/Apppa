@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Domain\\Domain.csproj": {}
+    "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Domain\\Domain.csproj": {
+    "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\Architecture\\AyncArchitec\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\Apppa\\Architecture\\AyncArchitec\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
