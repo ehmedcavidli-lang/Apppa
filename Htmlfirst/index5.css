@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #ea1111; /* qəhvəyi fon */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Bütün kontent ortada */
+.container {
+    text-align: center;
+}
+
+/* Kart */
+.card {
+    background-color: #ffffff; /* coffee-like rəng */
+    width: 400px;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+    color: rgb(0, 0, 0);
+    position: relative;
+}
+
+/* Başlıq sol tərəfdə */
+.card-header {
+    font-weight: 900;
+    font-size: 2rem;
+    text-align: left; /* sol tərəf */
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    border-bottom: 3px solid red; /* qırmızı xətt bütün eni əhatə edir */
+}
+
+/* Card body (Lorem paragraph) */
+.card-body {
+    margin-top: 10px;
+}
+
+/* Paragraph-lar */
+.card-body p {
+    background-color: #fff; /* ağ fon */
+    color: #000;
+    padding: 12px 15px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.2); /* boz kölgə */
+    margin-bottom: 10px;
+}
+
+/* Divider */
+.card-body hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 10px 0;
+}
+
+/* NEXT düyməsi */
+.next-btn {
+    background: rgb(183, 3, 3);
+    color: white;
+    font-size: 1.1rem;
+    padding: 10px 22px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.next-btn:hover {
+    opacity: 0.8;
+}
+
