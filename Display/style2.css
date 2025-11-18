@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: white;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-top: 60px;
+}
+
+.card {
+    width: 280px;
+    height: 420px;
+    background: #8a2be2;
+    color: white;
+    padding: 25px;
+    border-radius: 14px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* buy now aşağıda qalsın */
+}
+
+.card h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.card p {
+    font-size: 17px;
+    margin: 8px 0;
+}
+
+.card button {
+    background: white;
+    color: #8a2be2;
+    border: none;
+    padding: 12px 0;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.card button:hover {
+    background: #e9e2ff;
+}
