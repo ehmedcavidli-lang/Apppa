@@ -10,20 +10,20 @@ html, body {
 }
 
 body {
-    background-color: #ea1111; /* qəhvəyi fon */
+    background-color: #ea1111; 
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-/* Bütün kontent ortada */
+
 .container {
     text-align: center;
 }
 
-/* Kart */
+
 .card {
-    background-color: #ffffff; /* coffee-like rəng */
+    background-color: #ffffff; 
     width: 400px;
     padding: 20px;
     border-radius: 15px;
@@ -32,39 +32,37 @@ body {
     position: relative;
 }
 
-/* Başlıq sol tərəfdə */
+
 .card-header {
     font-weight: 900;
     font-size: 2rem;
-    text-align: left; /* sol tərəf */
+    text-align: left; 
     padding-bottom: 5px;
     margin-bottom: 10px;
-    border-bottom: 3px solid red; /* qırmızı xətt bütün eni əhatə edir */
+    border-bottom: 3px solid red; 
 }
 
-/* Card body (Lorem paragraph) */
+
 .card-body {
     margin-top: 10px;
 }
 
-/* Paragraph-lar */
 .card-body p {
-    background-color: #fff; /* ağ fon */
+    background-color: #fff; 
     color: #000;
     padding: 12px 15px;
     border-radius: 5px;
-    box-shadow: 1px 1px 5px rgba(0,0,0,0.2); /* boz kölgə */
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.2); 
     margin-bottom: 10px;
 }
 
-/* Divider */
+
 .card-body hr {
     border: none;
     border-top: 1px solid #ccc;
     margin: 10px 0;
 }
 
-/* NEXT düyməsi */
 .next-btn {
     background: rgb(183, 3, 3);
     color: white;
