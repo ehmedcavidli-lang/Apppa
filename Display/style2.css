@@ -24,7 +24,7 @@ body {
     text-align: center;
     display: flex;
     flex-direction: column;
-    justify-content: space-between; /* buy now aşağıda qalsın */
+    justify-content: space-between; 
 }
 
 .card h2 {
@@ -40,7 +40,7 @@ body {
 
 .card button {
     background: white;
-    color: #8a2be2;
+    color: hsl(271, 76%, 53%);
     border: none;
     padding: 12px 0;
     font-size: 18px;
