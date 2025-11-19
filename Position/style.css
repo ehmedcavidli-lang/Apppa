@@ -120,10 +120,14 @@ html, body { height: 100%; font-family: Inter, system-ui, -apple-system, "Segoe 
   .hero-content p { font-size: 0.95rem; }
 }
 
-body {
-    background: url("download.png");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+.bg-image {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 85%;
+  height: 85%;
+  background: url("download.png") center/cover no-repeat;
+  z-index: -1; 
+  opacity: 0.55; 
 }
 
