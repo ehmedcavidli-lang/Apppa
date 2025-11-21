@@ -1,0 +1,14 @@
+body {
+    background-color: #ab269c !important; 
+    color: white;
+}
+
+.card {
+    background: #ffffff;
+    color: #000;
+    border-radius: 12px;
+}
+
+.navbar {
+    background-color: #000 !important;
+}
