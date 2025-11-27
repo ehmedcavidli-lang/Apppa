@@ -2,25 +2,20 @@ const input = document.getElementById("taskInput");
 const addBtn = document.getElementById("addBtn");
 const taskList = document.getElementById("taskList");
 
-// ===================== LOCALSTORAGE =====================
 
-// LocalStorage-dən task-ları götür
+
 let tasks = JSON.parse(localStorage.getItem("tasks")) || [];
 
-// Səhifə açılan kimi task-ları ekrana yaz
 window.onload = () => {
   tasks.forEach(t => createTask(t));
 };
 
-// LocalStorage-a yazan funksya
 function saveTasks() {
   localStorage.setItem("tasks", JSON.stringify(tasks));
 }
 
-// ========================================================
 
 
-// ADD BUTTON
 addBtn.addEventListener("click", () => {
   const text = input.value.trim();
 
@@ -29,20 +24,29 @@ addBtn.addEventListener("click", () => {
     return;
   }
 
-  tasks.push(text);
+  const taskObj = {
+    id: Date.now(),              
+    text: text,                  
+    date: new Date().toLocaleString()
+  };
+
+  tasks.push(taskObj);
   saveTasks();
 
-  createTask(text);
+  createTask(taskObj);
   input.value = "";
 });
 
 
-// ===================== TASK YARADAN FUNKSIYA =====================
-function createTask(text) {
+
+function createTask(taskObj) {
   const li = document.createElement("li");
 
   const span = document.createElement("span");
-  span.innerText = text;
+  span.innerText = taskObj.text;
+
+  const detailBtn = document.createElement("button");
+  detailBtn.innerText = "Details";
 
   const editBtn = document.createElement("button");
   editBtn.innerText = "Edit";
@@ -51,26 +55,31 @@ function createTask(text) {
   deleteBtn.innerText = "Delete";
 
 
-  // Edit düyməsi
+  detailBtn.addEventListener("click", () => {
+    alert(
+      `ID: ${taskObj.id}\n` +
+      `Task: ${taskObj.text}\n` +
+      `Created At: ${taskObj.date}`
+    );
+  });
+
+
   editBtn.addEventListener("click", () => {
     const newText = prompt("Edit task:", span.innerText);
 
     if (newText !== null && newText.trim() !== "") {
-      // Köhnəni tasks massivində tapıb dəyişirik
-      const index = tasks.indexOf(span.innerText);
-      if (index !== -1) {
-        tasks[index] = newText.trim();
-        saveTasks();
-      }
-      span.innerText = newText;
+      span.innerText = newText.trim();
+
+      const index = tasks.findIndex(t => t.id === taskObj.id);
+      tasks[index].text = newText.trim();
+
+      saveTasks();
     }
   });
 
 
-  // Delete düyməsi
   deleteBtn.addEventListener("click", () => {
-    // Massivdən silirik
-    tasks = tasks.filter(t => t !== span.innerText);
+    tasks = tasks.filter(t => t.id !== taskObj.id);
     saveTasks();
 
     li.remove();
@@ -78,6 +87,7 @@ function createTask(text) {
 
 
   li.appendChild(span);
+  li.appendChild(detailBtn);
   li.appendChild(editBtn);
   li.appendChild(deleteBtn);
   taskList.appendChild(li);
