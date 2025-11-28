@@ -1,63 +1,14 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="az">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>9 Kart — Kliklə Şəkili Gör</title>
+  <meta charset="UTF-8">
+  <title>Multi Image Viewer</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <main class="wrap">
-    <h1>9 Kart — Klikləyin və şəkili görün</h1>
 
-    <section class="grid" id="cards">
-      
-      <button class="card" data-img="https://picsum.photos/id/1015/1200/800" aria-label="Kart 1">
-        <div class="thumb">Isyankar</div>
-      </button>
+<div id="cardsContainer" class="container"></div>
 
-      <button class="card" data-img="https://picsum.photos/id/1025/1200/800" aria-label="Kart 2">
-        <div class="thumb">Zarafatcil</div>
-      </button>
-
-      <button class="card" data-img="https://picsum.photos/id/1035/1200/800" aria-label="Kart 3">
-        <div class="thumb">Aqressiv</div>
-      </button>
-
-      <button class="card" data-img="https://picsum.photos/id/1045/1200/800" aria-label="Kart 4">
-        <div class="thumb">Susqun</div>
-      </button>
-
-      <button class="card" data-img="https://picsum.photos/id/1055/1200/800" aria-label="Kart 5">
-        <div class="thumb">Bomj</div>
-      </button>
-
-      <button class="card" data-img="https://picsum.photos/id/1065/1200/800" aria-label="Kart 6">
-        <div class="thumb">Chat</div>
-      </button>
-
-      <button class="card" data-img="https://picsum.photos/id/1075/1200/800" aria-label="Kart 7">
-        <div class="thumb">Sair</div>
-      </button>
-
-      <button class="card" data-img="https://picsum.photos/id/1085/1200/800" aria-label="Kart 8">
-        <div class="thumb">404NotFound</div>
-      </button>
-
-      <button class="card" data-img="https://picsum.photos/id/1095/1200/800" aria-label="Kart 9">
-        <div class="thumb">Yuxulu</div>
-      </button>
-    </section>
-  </main>
-
-
-  <div id="overlay" class="overlay" aria-hidden="true" role="dialog" aria-label="Şəkil görünüşü">
-    <button id="closeBtn" class="close-btn" aria-label="Bağla">&times;</button>
-    <div class="overlay-content">
-      <img id="overlayImg" src="" alt="Seçilmiş şəkil">
-    </div>
-  </div>
-
-  <script src="script.js"></script>
+<script src="script.js"></script>
 </body>
 </html>
